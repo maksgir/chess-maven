@@ -1,0 +1,16 @@
+move\MoveAction.class
+figure\types\King.class
+figure\types\Bishop.class
+figure\LineMovingFigure.class
+board\Cell.class
+figure\types\Queen.class
+figure\types\Rook.class
+figure\FigureAbstract.class
+figure\types\Pawn.class
+board\Board.class
+move\KillingMoveAction.class
+move\SimpleMoveAction.class
+Game.class
+player\Player.class
+figure\types\Knight.class
+Game2.class

@@ -1,0 +1,16 @@
+C:\work\chess_maven\chess\src\main\java\com\maksgir\chess\figure\FigureAbstract.java
+C:\work\chess_maven\chess\src\main\java\com\maksgir\chess\figure\types\Pawn.java
+C:\work\chess_maven\chess\src\main\java\com\maksgir\chess\figure\LineMovingFigure.java
+C:\work\chess_maven\chess\src\main\java\com\maksgir\chess\Game.java
+C:\work\chess_maven\chess\src\main\java\com\maksgir\chess\move\KillingMoveAction.java
+C:\work\chess_maven\chess\src\main\java\com\maksgir\chess\figure\types\Rook.java
+C:\work\chess_maven\chess\src\main\java\com\maksgir\chess\figure\types\King.java
+C:\work\chess_maven\chess\src\main\java\com\maksgir\chess\move\MoveAction.java
+C:\work\chess_maven\chess\src\main\java\com\maksgir\chess\board\Board.java
+C:\work\chess_maven\chess\src\main\java\com\maksgir\chess\board\Cell.java
+C:\work\chess_maven\chess\src\main\java\com\maksgir\chess\figure\types\Queen.java
+C:\work\chess_maven\chess\src\main\java\com\maksgir\chess\move\SimpleMoveAction.java
+C:\work\chess_maven\chess\src\main\java\com\maksgir\chess\figure\types\Bishop.java
+C:\work\chess_maven\chess\src\main\java\com\maksgir\chess\figure\types\Knight.java
+C:\work\chess_maven\chess\src\main\java\com\maksgir\chess\player\Player.java
+C:\work\chess_maven\chess\src\main\java\com\maksgir\chess\Game2.java
